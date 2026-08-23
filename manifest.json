@@ -1,0 +1,16 @@
+{
+  "name": "Planejador Acadêmico - Farmácia",
+  "short_name": "Planejador Acadêmico",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#ca8a04",
+  "lang": "pt-BR",
+  "scope": "./",
+  "description": "Planejador acadêmico offline para Farmácia - UFRJ",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "orientation": "portrait-primary"
+}
